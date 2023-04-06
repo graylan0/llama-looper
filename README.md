@@ -8,10 +8,10 @@ https://github.com/abetlen/llama-cpp-python/blob/main/llama_cpp/llama_cpp.py ins
 
 https://github.com/abetlen and https://github.com/techcoderx . To build the looped llama
 
-And add infinate loop generating more llama memes
+Add infinate loop generating llama memes.
 
 ![image](https://user-images.githubusercontent.com/34530588/230510166-7f64c0d5-8854-4689-a79e-cf99fbcc93fc.png)
 
 
-and even more.
-![image](https://user-images.githubusercontent.com/34530588/230510227-d8f1e55f-0e51-4e4c-b4b9-5e3f4586aa06.png)
+and even more. (it just keeps looping llamas!)
+![image](https://user-images.githubusercontent.com/34530588/230510671-ec46297d-d0de-4dfe-bca3-ce596ad098ee.png)
