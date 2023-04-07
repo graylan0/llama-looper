@@ -92,7 +92,9 @@ bot.run('botokenhere')
  # Bot Token
  
 Replace `bot.run('botokenhere')` "botokenhere" with a bottoken from discord developer's portal.
-Looping Llamas Demo:
+
+# Demo:
+Looping Llamas:
 ![image](https://user-images.githubusercontent.com/34530588/230567353-3f3795aa-c1a6-4916-9819-9275c836dd1b.png)
 
 
