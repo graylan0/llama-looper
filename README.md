@@ -87,6 +87,8 @@ async def trideque(ctx, *, user_input):
 nest_asyncio.apply()
 bot.run('botokenhere')
 ```
+ # Edit the model path to the correct path in your ENV
+ `llm = Llama(model_path="C:\\Users\\Shadow\\ggml-vicuna-7b-4bit\\ggml-vicuna-7b-4bit-rev1.bin")`
  # Bot Token
  
 Replace `bot.run('botokenhere')` "botokenhere" with a bottoken from discord developer's portal.
