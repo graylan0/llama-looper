@@ -1,6 +1,6 @@
 # Llama Looper
 
-testing looping the llama, into a superllama? 
+Looping the llama, into a superllama? 
 
 https://github.com/abetlen/llama-cpp-python/blob/main/llama_cpp/llama_cpp.py inspired by
 
