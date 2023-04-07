@@ -1,8 +1,9 @@
 # Llama Looper
-
+![image](https://user-images.githubusercontent.com/34530588/230510137-df3f346c-201a-4ac0-8055-20a411051f5b.png)
 Looping the llama, into a superllama? 
 
-https://github.com/abetlen/llama-cpp-python/blob/main/llama_cpp/llama_cpp.py inspired by
+https://github.com/abetlen/llama-cpp-python/blob/main/llama_cpp/llama_cpp.py 
+I was inspired by this project and @techcoderx. To make a Llama Loop.
 
 
 # How to install
@@ -89,9 +90,9 @@ bot.run('botokenhere')
  # Bot Token
  
 Replace `bot.run('botokenhere')` "botokenhere" with a bottoken from discord developer's portal.
+Looping Llamas Demo:
+![image](https://user-images.githubusercontent.com/34530588/230567353-3f3795aa-c1a6-4916-9819-9275c836dd1b.png)
 
-GPL 2.0
-![image](https://user-images.githubusercontent.com/34530588/230510137-df3f346c-201a-4ac0-8055-20a411051f5b.png)
 
 https://github.com/abetlen and https://github.com/techcoderx . To build the looped llama
 
