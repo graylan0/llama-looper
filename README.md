@@ -5,6 +5,8 @@ Looping the llama, into a superllama?
 https://github.com/abetlen/llama-cpp-python/blob/main/llama_cpp/llama_cpp.py 
 I was inspired by this project and @techcoderx. To make a Llama Loop.
 
+# Tips
+You must DM the bot then type !trideque (textinput)
 
 # How to install
 
