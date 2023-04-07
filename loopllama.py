@@ -55,4 +55,4 @@ async def trideque(ctx, *, user_input):
 
 # Replace 'your_bot_token' with your actual bot token from the Discord Developer Portal
 nest_asyncio.apply()
-bot.run('MTA3MjQxNDUzNTMyOTI1NTQyNA.G_2GqW.o-kNjhwVUs5x64chNNc7DuXKvBljCkS9FVvzQA')
+bot.run('bottoken')
