@@ -10,7 +10,7 @@ intents.presences = False
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-llm = Llama(model_path="C:\\Users\\Shadow\\ggml-vicuna-7b-4bit\\ggml-vicuna-7b-4bit-rev1.bin")
+llm = Llama(model_path="C:\\Users\\Shadow\\research\\gpt-llama-falcon-intercommunication\\ggml-vic7b-uncensored-q5_1.bin")
 
 async def llama_generate(prompt, max_tokens=200):
     full_prompt = f":: {prompt}\nQ: "  # Add a default format for the prompt
