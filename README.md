@@ -5,6 +5,14 @@ Looping the llama, into a superllama?
 https://github.com/abetlen/llama-cpp-python/blob/main/llama_cpp/llama_cpp.py 
 I was inspired by this project and @techcoderx. To make a Llama Loop.
 
+
+#bytesandbits fix for windows
+
+bitsandbytes also need a special install for Windows:
+
+pip uninstall bitsandbytes
+pip install https://github.com/jllllll/bitsandbytes-windows-webui/releases/download/wheels/bitsandbytes-0.41.0-py3-none-win_amd64.whl
+
 # Tips
 You must DM the bot then type !trideque (textinput)
 
